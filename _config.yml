@@ -59,7 +59,7 @@ social-network-links:
   youtube: "@nathanfavero6694"
 #  medium: yourname
 #  reddit: yourname
-#  linkedin: daattali
+  linkedin: nathanfavero
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
@@ -72,7 +72,7 @@ social-network-links:
 #  telegram: yourname
 #  calendly: yourname
 #  mastodon: instance.url/@username
-#  bluesky: yourname
+  bluesky: nathanfavero.com
   ORCID: 0000-0002-8816-088X
   google-scholar: KQW0iwMAAAAJ
 #  discord: "invite_code" or "users/userid" or "invite/invite_code" 
@@ -83,7 +83,7 @@ social-network-links:
 
 # If you want your website to generate an RSS feed, provide a description
 # The URL for the feed will be https://<your_website>/feed.xml
-rss-description: This website is a virtual proof that I'm awesome
+#rss-description: This website is a virtual proof that I'm awesome
 
 ###########################
 # --- General options --- #
