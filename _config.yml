@@ -20,7 +20,7 @@ author: Nathan Favero
 ###############################################
 
 navbar-links:
-  Home: "index.html"
+  Home: "{{ site.baseurl }}"
   CV: "https://nathanfavero.com/wp-content/uploads/CV_Favero.pdf"
   Blog: "blog"
 #  Resources:
