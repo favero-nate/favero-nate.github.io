@@ -21,6 +21,7 @@ author: Nathan Favero
 
 navbar-links:
   Home: "index.html"
+  CV: "https://nathanfavero.com/wp-content/uploads/CV_Favero.pdf"
   Blog: "blog"
 #  Resources:
 #    - Beautiful Jekyll: "https://beautifuljekyll.com"
