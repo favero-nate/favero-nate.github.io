@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Genes cause wealth disparities? How we talk about research that could be used for evil
-subtitle: 
+title: Genes cause wealth disparities?
+subtitle: How we talk about research that could be used for evil
 cover-img: 
 thumbnail-img: 
 share-img: 
