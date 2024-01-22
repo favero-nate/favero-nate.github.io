@@ -20,8 +20,8 @@ author: Nathan Favero
 ###############################################
 
 navbar-links:
-  Home: ""
-  CV: "https://nathanfavero.com/wp-content/uploads/CV_Favero.pdf"
+  Home: "https://favero-nate.github.io"
+  CV: "CV_Favero.pdf"
   Research & Working Papers: "research"
   Teaching Tools: "teaching"
   Blog: "blog"
